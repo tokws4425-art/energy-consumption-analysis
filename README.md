@@ -18,3 +18,11 @@ The goal of this project is to better understand energy consumption patterns.
 
 ## Author
 Adinai Sultangazieva
+
+## How to run
+
+1. Install Python
+2. Install required libraries:
+   pip install pandas matplotlib
+3. Run the script:
+   python analysis.py
