@@ -1,7 +1,7 @@
 # Energy Consumption Analysis
 
 ## Description
-This project analyzes electricity consumption data using Python.
+This project was created to explore electricity consumption patterns and improve understanding of energy usage trends through data analysis and visualization.
 
 ## Features
 - Identifies peak consumption periods
